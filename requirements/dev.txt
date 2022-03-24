@@ -1,0 +1,13 @@
+astropy==4.1
+flake8
+flake8-checkstyle
+matplotlib==3.3.2
+numpy==1.19.4
+pyflakes==2.2.0
+pytest==4.6.4
+pytest-cov==2.11.1
+scikit-image==0.17.2
+scipy==1.5.4
+six==1.15.0
+inquirer==2.7.0
+
